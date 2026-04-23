@@ -29,9 +29,17 @@ Neste repositório, vais aprender a identificar e corrigir as 3 falhas mais comu
 > **Regra nº 1: Nunca confies no utilizador.** > Tudo o que alguém escreve no teu site deve ser tratado como perigoso até ser "limpo" pelo teu código.
 
 ### Ferramentas Úteis:
-* **SonarLint:** Uma extensão para o VS Code que te avisa de erros enquanto escreves.
-* **Snyk:** Verifica se as bibliotecas que instalaste têm vírus ou falhas conhecidas.
-* **OWASP Top 10:** A lista oficial das coisas que mais correm mal na internet.
+* **SonarLint:** Uma extensão para o VS Code que te avisa de erros enquanto escreves. [sonarlint.org](https://www.sonarlint.org/)
+* **Snyk:** Verifica se as bibliotecas que instalaste têm vírus ou falhas conhecidas. [snyk.io](https://snyk.io/)
+* **OWASP Top 10:** A lista oficial das coisas que mais correm mal na internet. [owasp.org](https://owasp.org/www-project-top-ten/)
+* **CWE (Mitre):** Dicionário de falhas de segurança em software. [cwe.mitre.org](https://cwe.mitre.org/)
+* **Have I Been Pwned:** Verifica se os teus dados foram expostos em fugas de informação. [haveibeenpwned.com](https://haveibeenpwned.com/)
+* **TryHackMe:** Aprende cibersegurança de forma prática e divertida. [tryhackme.com](https://tryhackme.com/)
+* **Web Security Academy:** Laboratórios gratuitos de segurança web. [portswigger.net/web-security](https://portswigger.net/web-security)
+* **Hacksplaining:** Explicações simples e interativas de vulnerabilidades. [hacksplaining.com](https://www.hacksplaining.com/)
+* **CNCS:** Centro Nacional de Cibersegurança Portugal. [cncs.gov.pt](https://www.cncs.gov.pt/)
+* **ISTEC Porto:** Instituto Superior de Tecnologias Avançadas. [istec.pt](https://www.istec.pt/)
+
 
 ---
 
@@ -40,7 +48,6 @@ Neste repositório, vais aprender a identificar e corrigir as 3 falhas mais comu
 Se tiveres dúvidas sobre os exemplos, podes contactar-me ou abrir uma "Issue" aqui no GitHub!
 
 * **LinkedIn:** [linkedin.com/in/tomás-matos](https://www.linkedin.com/in/tom%C3%A1s-matos07/)
-* **ISTEC Porto**
 
 ---
 *Feito com ❤️ para ajudar a próxima geração de developers.*
