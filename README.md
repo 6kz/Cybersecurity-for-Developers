@@ -47,7 +47,7 @@ Neste repositório, vais aprender a identificar e corrigir as 3 falhas mais comu
 
 Se tiveres dúvidas sobre os exemplos, podes contactar-me ou abrir uma "Issue" aqui no GitHub!
 
-* **LinkedIn:** [linkedin.com/in/tomás-matos](https://www.linkedin.com/in/tom%C3%A1s-matos07/)
+* **LinkedIn:** [linkedin.com/in/tomasmaio](https://www.linkedin.com/in/tomasmaio/)
 
 ---
 *Feito com ❤️ para ajudar a próxima geração de developers.*
